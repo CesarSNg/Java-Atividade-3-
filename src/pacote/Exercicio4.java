@@ -11,7 +11,7 @@ public class Exercicio4
        double soma = 0, media = 0;
        String aux;
        
-       aux = JOptionPane.showInputDialog(null,"Insira 10 alturas em metros:");
+       aux = JOptionPane.showInputDialog(null,"Insira as 10 alturas em metros:");
  
         for(int i=0; i < 10; i++)
         {
